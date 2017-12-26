@@ -1,7 +1,7 @@
 {
   "name": "memeadowlark",
   "version": "1.0.0",
-  "description": "草地鹨旅行社网�网站",
+  "description": "草地鹨旅行社网站",
   "main": "meadowlark.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
