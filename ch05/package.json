@@ -1,0 +1,38 @@
+{
+  "name": "memeadowlark",
+  "version": "1.0.0",
+  "description": "草地鹨旅行社网站",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "旅草地鹨旅行社网站",
+    "彭涛"
+  ],
+  "author": "pengtao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-exec": "^3.0.0",
+    "mocha": "^4.0.1",
+    "zombie": "^5.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PT-github/meadowlark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PT-github/meadowlark/issues"
+  },
+  "homepage": "https://github.com/PT-github/meadowlark#readme"
+}
